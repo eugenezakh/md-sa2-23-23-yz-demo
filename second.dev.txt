@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 3 yauhenzkh yauhenzkh 4096 Feb 26 16:19 .
+drwxr-x--- 8 yauhenzkh yauhenzkh 4096 Feb 26 16:16 ..
+-rw-rw-r-- 1 yauhenzkh yauhenzkh   21 Feb 26 16:19 first.dev.txt
+-rw-rw-r-- 1 yauhenzkh yauhenzkh   32 Feb 26 16:16 first.txt
+drwxrwxr-x 8 yauhenzkh yauhenzkh 4096 Feb 26 16:19 .git
+-rw-rw-r-- 1 yauhenzkh yauhenzkh    0 Feb 26 16:19 second.dev.txt
+-rw-rw-r-- 1 yauhenzkh yauhenzkh    6 Feb 26 16:17 second.txt
